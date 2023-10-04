@@ -5,7 +5,7 @@ function Footer() {
     <div className="footerContainer">
       <div className="footerSpacer">
         <div>
-          <img src={logo} alt="Beta-logo" />
+          <img style={{ width: "4.65445vw" }} src={logo} alt="Beta-logo" />
         </div>
         <div className="gapFooter gapFooter">
           <p>We Speak Digital</p>
