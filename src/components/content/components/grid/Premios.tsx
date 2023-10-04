@@ -1,8 +1,6 @@
-import React from "react";
-
 function Premios() {
   return (
-    <div className="content background">
+    <div className="contentSmall background">
       <div className="contactanos">
         <p className="contentTitle">Premios</p>
         <br />

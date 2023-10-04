@@ -1,7 +1,7 @@
 function Servicios() {
   return (
-    <div className="background servicios content">
-      <div className="contentContainer">
+    <div className="background servicios contentDoble">
+      <div className="contentServiciosContainer">
         <p className="contentTitle">Servicios</p>
         <br />
         <br />
@@ -16,7 +16,7 @@ function Servicios() {
             <li>Motion Graphics</li>
             <li>Packaging</li>
           </ul>
-          <ul className="none gapList">
+          <ul className="none gapList marginList">
             <li>Realidad Aumentada</li>
             <li>Realidad Virtual</li>
             <li>Diseño de Software</li>

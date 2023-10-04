@@ -1,6 +1,6 @@
 function Contactanos() {
   return (
-    <div className="content background">
+    <div className="contentSmall background">
       <div className="contactanos">
         <p className="contentTitle">Contáctanos</p>
         <br />

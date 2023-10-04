@@ -1,6 +1,6 @@
 function Clientes() {
   return (
-    <div className="background clientes content">
+    <div className="background clientes contentDoble">
       <div className="contentContainer">
         <p className="contentTitle">Clientes</p>
         <br />
@@ -29,7 +29,7 @@ function Clientes() {
             <li>Keeway</li>
             <li>Klinc</li>
           </ul>
-          <ul className="none gapList">
+          <ul className="none gapList marginBigList">
             <li>Kawasaki</li>
             <li>Lafloid</li>
             <li>Le Creusset</li>

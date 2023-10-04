@@ -1,6 +1,6 @@
 function Siguenos() {
   return (
-    <div className="siguenos background">
+    <div className="contentSmall background">
       <div className="contactanos">
         <p className="contentTitle">Síguenos</p>
         <br />

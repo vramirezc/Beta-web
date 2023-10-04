@@ -86,7 +86,20 @@ body {
   display: flex;
   text-align: left;
   justify-content: center;
-  align-items: center;
+}
+
+.contentSmall {
+  display: flex;
+  text-align: left;
+  padding-left: 20%;
+  padding-top: 20%;
+}
+
+.contentDoble {
+  display: flex;
+  text-align: left;
+  padding-left: 10%;
+  padding-top: 10%;
 }
 
 .contentTitle {
@@ -129,9 +142,12 @@ body {
   width: 79.15%;
 }
 
+.contentServiciosContainer {
+  width: 90%;
+}
+
 .divider {
   display: flex;
-  justify-content: space-between;
   font-size: 16px;
 }
 
@@ -150,6 +166,14 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1.2rem;
+}
+
+.marginList {
+  margin-left: 34%;
+}
+
+.marginBigList {
+  margin-left: 34%;
 }
 
 .servicios {
@@ -179,8 +203,9 @@ body {
 }
 
 .partnersTitle {
-  width: 89%;
+  width: 100%;
   display: flex;
+  padding-left: 9.5%;
   justify-content: flex-start;
   font-family: "basier circle semi bold";
   font-size: 18px;
@@ -198,7 +223,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: 4.2rem;
+  margin-left: 20%;
 }
 
 .partnerName {
@@ -214,7 +239,7 @@ body {
 
 .footerContainer {
   display: flex;
-  gap: 6rem;
+  gap: 8.1%;
   margin-top: 3rem;
   margin-left: 2rem;
 }

@@ -2,7 +2,7 @@ import React from "react";
 
 function Manifesto() {
   return (
-    <div className="content manifesto background">
+    <div className="contentDoble manifesto background">
       <div>
         <p className="contentTitle">Manifesto</p>
         <br />

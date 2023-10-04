@@ -1,6 +1,6 @@
 function Filosofia() {
   return (
-    <div className="content background">
+    <div className="contentSmall background">
       <div>
         <p className="contentTitle">Filosofía</p>
         <br />
