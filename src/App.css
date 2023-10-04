@@ -25,7 +25,7 @@ body {
 }
 
 .container {
-  padding-top: 4.688rem;
+  padding-top: 4.9167vw;
   max-width: 76.25rem;
   margin: auto;
 }
@@ -38,17 +38,17 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 0.5rem 1rem;
-  margin-bottom: 1.563rem;
+  margin-bottom: 1.6389vw;
 }
 
 .navLogo {
-  margin-left: 1.25rem;
+  margin-left: 1.3111vw;
   width: 4.65445vw;
 }
 
 .navList {
   display: flex;
-  gap: 1.25rem;
+  gap: 1.3111vw;
 }
 
 .background {
@@ -66,7 +66,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 0.325rem;
+  margin-bottom: 0.3408vw;
 }
 
 .bannerVideo {
@@ -81,7 +81,7 @@ body {
   grid-template-columns: 24.625% 24.625% 24.625% 24.625%;
   grid-template-rows: 26.4194vw 26.7467vw 25.3045vw;
   gap: 0.5%;
-  margin-bottom: 1.1rem;
+  margin-bottom: 1.1537vw;
 }
 
 .content {
@@ -121,7 +121,7 @@ body {
 .contactanosList {
   display: flex;
   flex-direction: column;
-  gap: 0.65rem;
+  gap: 0.681778vw;
 }
 
 .relative {
@@ -236,8 +236,8 @@ body {
 }
 
 .trapezoide {
-  width: 30px;
-  height: 5px;
+  width: 1.96667vw;
+  height: 0.32778vw;
   clip-path: polygon(0% 100%, 0% 0%, 82.5% 0%, 100% 100%);
 }
 
